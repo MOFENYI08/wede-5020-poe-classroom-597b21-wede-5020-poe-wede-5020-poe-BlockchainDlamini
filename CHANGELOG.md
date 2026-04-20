@@ -6,7 +6,7 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-added equiries
+added equiries and pictures
 
 ### Changed
 - changed  my booking bar structure
