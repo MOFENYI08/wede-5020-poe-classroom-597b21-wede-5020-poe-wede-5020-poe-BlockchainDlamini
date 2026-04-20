@@ -6,13 +6,13 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+added equiries
 
 ### Changed
-- xyz
+- changed  my booking bar structure
 
 ### Fixed
-- xyz
+Fixed my code structure
 
 ## Semantic Versioning
 
