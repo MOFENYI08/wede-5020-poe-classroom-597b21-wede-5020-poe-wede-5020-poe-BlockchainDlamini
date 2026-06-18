@@ -33,25 +33,27 @@
         <p>Fill in your details</p>
         <form>
             <ul>
-            <li><label>Name</label></li>
-            <input type="text">
-            <li><label>Surname</label></li>
-            <input type="text">
-            <li><label>Name of hairstyle</label></li>
-            <input type="text">
-            <li><label>Braiding Date</label></li>
-            <input type="numbers">
-             <li><label>Braiding Time</label></li>
-            <input type="numbers">
+            <li><label for="name">Name</label></li>
+            <input type="text" id="name" name="name" >
+            <li><label for="surname">Surname</label></li>
+            <input type="text" id="surname" name="surname" >
+            <li><label for="hairstyle">Name of hairstyle</label></li>
+            <input type="text" id="hairstyle" name="hairstyle" >
+            <li><label for="date">Braiding Date</label></li>
+            <input type="text" id="date" name="date">
+             <li><label for="time">Braiding Time</label></li>
+            <input type="text" id="time" name="time" >
             </ul>
             <button type="submit">submit</button>
             <button type="reset">reset</button>
 
         <P>THANK YOU!</P>
+         <!-- Message will appear here -->
+  <p id="confirmation"></p>
         
         </form>
     </main>
-    <script src="myScript.js"></script>
+    <script src="JS/myScript.js"></script>
 </body>
 </html>
     
