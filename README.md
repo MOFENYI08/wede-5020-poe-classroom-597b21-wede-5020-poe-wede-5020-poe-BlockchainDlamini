@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Small business: Salon
 
 ## Student Information
 **Student number:** ST10514555  <br>
@@ -43,23 +43,30 @@ Your project's title
 ![Website Sitemap]img\Screenshot 2026-04-19 203150.png<br> (The one here is only an example, include your own site map)
 
 ## References
+DesignGuru. (2023) Steps to create an effective wireframe for web design. Medium, 21 January. Available at: https://medium.com/@dhgrafik0/steps-to-creating-an-effective-wireframe-for-web-design-9a7be18ce755 (Accessed: 11 April 2026).
 
-. DesignGuru.(2023) steps to create an effective wireframe for web design. Medium, 21 January. Available at: https://medium.com/@dhgrafik0/steps-to-creating-an-effective-wireframe-for-web-design-9a7be18ce755  (Accessed: 11 April 2026). 
-. Grant, A. (2025) Mastering  websites wireframes: examples, size guides, essential tools. GoDaddy Blog, 6 June. Available at: https://www.godaddy.com/resources/skills/website-wireframes-examples  (Accessed: 11 April 2026).
-. Kronberga, G.  (2025) How to write an about Us page: The unlimited guide. Printful Blog ,15 May. Available at: https://www.printful.com/blog/how-to-write-an-about-us-page (Accessed: 11 April 2026). 
-. Neufeld, J. (2024) What should you include in your website home page content? Jodi Neufeld Design. [Online.] Available at:< https://www.jodineufelddesign.com/blog/what-to-include-website-homepage-content >[Accessed 11 April 2026].
-. SaaS Landing Page. (n.d.) Best features page example for design inspiration. Available at: https://saaslandingpage.com/features/ (Accessed: 11 April 2026).
-. Saleem, M. (2026) How much does web design cost in South Africa(2026)? HOSTAFRICA Blog, 1 April. Available at:  https://hostafrica.co.za/blog/websites/web-design/how-much-does-web-design-cost-in-south-africa/ (Accessed: 11 April 2026).
-. UC San Diego Division of Extended Studies. (2023) Why User Experience and Design Matters: The Importance of User Experience and Design Thinking for Products and Services. Available at: https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/why-user-experience-(ux)-design-matters-the-importance-of-user-experience-and-design-thinking (Accessed: 11 April 2026).
-. Yes I’m a Designer. (2023) Graphical Design Theory #10 – Hierarchy with fonts. YouTube video. Available at: https://m.youtube.com/watch?v=45uFUjRIUuk (Accessed: 11 April 2026).
+Grant, A. (2025) Mastering websites wireframes: examples, size guides, essential tools. GoDaddy Blog, 6 June. Available at: https://www.godaddy.com/resources/skills/website-wireframes-examples (Accessed: 11 April 2026).
 
+Kronberga, G. (2025) How to write an About Us page: The unlimited guide. Printful Blog, 15 May. Available at: https://www.printful.com/blog/how-to-write-an-about-us-page (Accessed: 11 April 2026).
+
+MDN Web Docs. (2026) HTML form validation. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation (Accessed: 18 June 2026).
+
+MDN Web Docs. (2026) Using the DOM: Event listeners. Available at: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener (Accessed: 18 June 2026).
+
+Neufeld, J. (2024) What should you include in your website home page content? Jodi Neufeld Design. [Online.] Available at: https://www.jodineufelddesign.com/blog/what-to-include-website-homepage-content (Accessed: 11 April 2026).
+
+SaaS Landing Page. (n.d.) Best features page example for design inspiration. Available at: https://saaslandingpage.com/features/ (Accessed: 11 April 2026).
+
+Saleem, M. (2026) How much does web design cost in South Africa (2026)? HOSTAFRICA Blog, 1 April. Available at: https://hostafrica.co.za/blog/websites/web-design/how-much-does-web-design-cost-in-south-africa/ (Accessed: 11 April 2026).
+
+UC San Diego Division of Extended Studies. (2023) Why User Experience and Design Matters: The importance of user experience and design thinking for products and services. Available at: https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/why-user-experience-(ux)-design-matters-the-importance-of-user-experience-and-design-thinking (Accessed: 11 April 2026).
 
 W3Schools. (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/default.asp (Accessed: 18 June 2026).
 
+W3Schools. (2026) HTML Forms. Available at: https://www.w3schools.com/html/html_forms.asp (Accessed: 18 June 2026).
 
+W3Schools. (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 18 June 2026).
 
-
-
-
+Yes I’m a Designer. (2023) Graphical Design Theory #10 – Hierarchy with fonts. YouTube video. Available at: https://m.youtube.com/watch?v=45uFUjRIUuk (Accessed: 11 April 2026).
 
 
