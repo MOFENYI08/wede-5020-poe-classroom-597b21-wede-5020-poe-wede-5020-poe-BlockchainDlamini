@@ -1,0 +1,35 @@
+body{
+    background-color: pink;
+}
+h1, h2, h3{
+    color:burlywood;
+}
+p{
+    
+}
+table, th, td{
+    border: 1px solid black;
+}
+nav{
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+    justify-content: center;
+}
+ul li{
+    float: left;
+}
+ul li a{
+    display: block;
+    color: burlywood;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover {
+  background-color: #111111;
+}
+}
