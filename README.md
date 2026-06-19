@@ -54,6 +54,12 @@ MDN Web Docs. (2026) HTML form validation. Available at: https://developer.mozil
 MDN Web Docs. (2026) Using the DOM: Event listeners. Available at: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener (Accessed: 18 June 2026).
 
 Neufeld, J. (2024) What should you include in your website home page content? Jodi Neufeld Design. [Online.] Available at: https://www.jodineufelddesign.com/blog/what-to-include-website-homepage-content (Accessed: 11 April 2026).
+Pinterest. (2026) DJIXIEvUf. Available at: https://pin.it/DJIXIEvUf (Accessed: 19 June 2026)
+Pinterest. (2026) 4NB2zXtQD. Available at: https://pin.it/4NB2zXtQD (Accessed: 19 June 2026)
+Pinterest. (2026) 6tJIDIC1h. Available at: https://pin.it/6tJIDIC1h (Accessed: 19 June 2026)
+Pinterest. (2026) 2qaGPxWYZ. Available at: https://pin.it/2qaGPxWYZ (Accessed: 19 June 2026).
+Pinterest. (2026) DvVtv62Le. Available at: https://pin.it/DvVtv62Le (Accessed: 19 June 2026)
+Pinterest. (2026) 4hEuLQzAg. Available at: https://pin.it/4hEuLQzAg (Accessed: 19 June 2026)
 
 SaaS Landing Page. (n.d.) Best features page example for design inspiration. Available at: https://saaslandingpage.com/features/ (Accessed: 11 April 2026).
 
