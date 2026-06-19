@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function() {
   const form = document.querySelector("form");
   const confirmation = document.getElementById("confirmation");
@@ -20,7 +21,6 @@ document.addEventListener("DOMContentLoaded", function() {
     confirmation.style.color = "black";
     confirmation.style.fontWeight = "bold";
   });
-
   // Clear message when form is reset
   form.addEventListener("reset", function() {
     confirmation.textContent = "";
