@@ -141,3 +141,7 @@ body {
   color: burlywood;
   text-align: center;
 }
+.intro {
+  font-weight: bold;
+  font-style: italic;
+}
