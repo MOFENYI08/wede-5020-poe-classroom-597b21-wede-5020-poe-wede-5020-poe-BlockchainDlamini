@@ -1,5 +1,5 @@
 # Project Title
-Small business: Salon
+Small business: Salon (hypothetical)
 
 ## Student Information
 **Student number:** ST10514555  <br>
